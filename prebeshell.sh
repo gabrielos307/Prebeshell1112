@@ -1,3 +1,5 @@
+#!bin/bash
+
 #Pantalla del login 
 bash $PWD/login.sh
 #Si sus datos son correctos se limpiara la pantalla

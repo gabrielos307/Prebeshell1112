@@ -91,7 +91,7 @@ while [$salir -ne 0]do
 	5)
 	echo "·@·@·@·@·@·@·@·@·@·@·@·@·@·@·@·@·@·@·@"
 	echo "·@·@·@·@·@·@·@·@·@·@·@·@·@·@·@·@·@·@·@"
-	echo "·@·@[p]->Pausa	[s]->Stop          @·@"
+	echo "·@·@[p]->Pausa	[s]->Stop        @·@"
 	echo "·@·@[c]->Adelanta [x]->Atrasar     @·@"
 	echo "·@·@[+]->Subele a esa madre        @·@"
 	echo "·@·@[-]->Bajale we                 @·@"
@@ -126,3 +126,4 @@ done
 cd $(pwd)
 cd ..
 cd comandos
+./regresa.sh

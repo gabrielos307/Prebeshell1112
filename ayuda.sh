@@ -25,3 +25,4 @@ echo -e"${AMA} 'buscar'     Busca un archivo en la carpeta indicada${NV}"
 echo -e"${AMA} ${NV}"
 
 exit 0
+./regresar.sh
